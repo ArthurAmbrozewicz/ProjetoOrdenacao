@@ -93,12 +93,12 @@ Todos foram implementados utilizando apenas **estruturas básicas** (`for`, `whi
 
 ## 🧠 Conclusões
 
-- **Bucket Sort** apresentou o **melhor desempenho em iterações** e excelente eficiência em vetores de tamanho controlado, pois sua contagem direta é quase linear.  
-- **Selection Sort** foi o **mais econômico em trocas**, pois troca apenas uma vez por posição.  
-- **Comb Sort** teve um bom equilíbrio entre trocas e iterações, sendo um avanço perceptível sobre o Bubble Sort.  
-- **Gnome Sort**, **Bubble Sort** e **Cocktail Sort** tiveram desempenhos similares em vetores desordenados, exigindo muitas trocas e iterações.  
-- Em vetores **já ordenados**, os algoritmos com verificação de flag (Bubble e Cocktail) e os com avanço adaptativo (Gnome) se destacaram, evitando processamento desnecessário.  
-- Em vetores **decrescentes**, Selection Sort novamente se mostrou mais estável, realizando menos trocas mesmo com alto número de comparações.
+- Bucket Sort apresentou o **melhor desempenho em interações** e excelente eficiência em vetores de tamanho controlado, pois sua contagem direta é quase linear.  
+- Selection Sort foi o que menos realizou trocas, pois troca apenas uma vez por posição.  
+- Comb Sort teve um bom equilíbrio entre trocas e iterações.  
+- Gnome Sort, Bubble Sort e Cocktail Sort tiveram desempenhos similares em vetores desordenados, exigindo muitas trocas e iterações.  
+- Em vetores ordenados os algoritmos com verificação de flag (Bubble e Cocktail) e os com avanço adaptativo (Gnome) se destacaram, evitando processamento desnecessário.  
+- Em vetores decrescentes o Selection Sort realiza menos trocas mesmo com alto número de comparações.
 
 ---
 
