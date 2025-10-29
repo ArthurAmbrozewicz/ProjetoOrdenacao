@@ -1,7 +1,6 @@
 # 🔢 Comparativo de Algoritmos de Ordenação  
 **Disciplina:** Resolução de Problemas Estruturados em Computação  
-**Professor:** Vilmar Abreu Junior  
-**Aluno:** *[Seu nome aqui]*  
+
 
 ---
 
